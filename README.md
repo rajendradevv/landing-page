@@ -5,4 +5,5 @@
   <h1>wanna experience something new </h1>
  tap the below link and experience the new chrome
  #[click here](https://rajendradevv.github.io/landing-page/)
+  <a href="https://rajendradevv.github.io/landing-page/">click me to see magic</a>
  </html>
