@@ -5,5 +5,5 @@
   <h1>wanna experience something new </h1>
  tap the below link and experience the new chrome
 <br>
-  <a href="https://rajendradevv.github.io/landing-page/">click me to see magic</a>
+ <h5> <a href="https://rajendradevv.github.io/landing-page/">click me to see magic</a></h5>
  </html>
